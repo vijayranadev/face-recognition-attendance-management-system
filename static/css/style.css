@@ -1,0 +1,12 @@
+body {
+    background: #f8f9fa;
+}
+
+video {
+    background: #000;
+    max-height: 480px;
+}
+
+small.text-muted {
+    font-size: 0.85rem;
+}
